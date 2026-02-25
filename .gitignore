@@ -1,2 +1,3 @@
 congress_tweets_dataset.parquet
-*.json
+congress_tweets_dataset_cleaned.parquet
+data/
